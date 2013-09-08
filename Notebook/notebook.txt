@@ -1,0 +1,6 @@
+Date	Who		Start	Stop	Interruptions	Question	TimeOnTask	Comments
+9/8	Jalpan		02:07								Preparing Laptop
+9/8	Jalpan		02:08	02:13					5		Downloading and installing Dr. Racket			
+9/8	Jalpan		02:14	02:25					11		Creating and Setting up GitHub
+9/8	Jalpan			02:25							Preprating Laptop Complete
+============================Commiting GIT: 9/8 2:31 =================================		
