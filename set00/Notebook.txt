@@ -8,4 +8,8 @@ Date		Who		Start		Stop		Interruptions	Question	TimeOnTask	Comments
 9/13		Jalpan		11:00		11:03				6		3		Analysing data defination 
 9/13		Jalpan		11:03		11:11		1		6		7		Writing code
 ====================== Commiting to Git 9/13 11:11 =========================================================
+9/13		Jalpan		11:30		11:37				7		7		to test ans which is real number must use expression 
+9/13		Jalpan		11:37		11:43				8		6		complete q8
+9/13		Jalpan		11:44		11:48				9		4		fn divide 2nd argument to 1st and returns remainder part
+====================== Commiting to Git 9/13 1!:49 =========================================================
 
