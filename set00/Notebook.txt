@@ -27,6 +27,15 @@ Total Time on Task Q7  (minutes)		7
 Total Time on Task Q8  (minutes)		6
 Total Time on Task Q9  (minutes)		4
 Total Time on Task Q10 (minutes)		15
+TOTQ1 (hours and tenths)			0.03
+TOTQ2 (hours and tenths)			0.09
+TOTQ3 (hours and tenths)			0.06
+TOTQ4 (hours and tenths)			0.04
+TOTQ5 (hours and tenths)			0.06
+TOTQ6 (hours and tenths)			0.10
+TOTQ7 (hours and tenths)			0.07
+TOTQ8 (hours and tenths)			0.06
+TOTQ9 (hours and tenths)			0.04
+TOTQ10(hours and tenths)			0.15
 
-Total Time on Set00    (minutes)                70
-TOTSET00 (hours and tenths) 			1.10
+
