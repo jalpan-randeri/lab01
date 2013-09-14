@@ -1,0 +1,3 @@
+Date		Who		Start		Stop		Interruptions	Question	TimeOnTask	Comments
+9/13		Jalpan		3.05		3:08		2		1		3		writing code Q1
+======================= Commiting to Git 9/13 10:30 =========================================================
